@@ -1,0 +1,30 @@
+/-------------------------\
+| /---------------------\ |
+| |         LED         | |
+| |        Screen       | |
+| \---------------------/ |
+|          . . .          |
+|                         |
+|   /---\         /---\   |
+|   | A |         | B |   |
+|   \---/         \---/   |
+|                         |
+|                         |
+|   /---\  /---\  /---\   |
+|   | C |  | D |  | E |   |
+|   \---/  \---/  \---/   |
+|                         |
+\-------------------------/
+
+## Index ##
+	A: "Scroll left"
+	B: "Scroll right"
+	C: "Yesterday"
+	D: "Today"
+	E: "Tomorrow"
+
+	LED screen: Weather, e.g. "High: 19°C, Low: 15°C - Mostly Cloudy"
+
+	. (1st): Green LED, "fine"
+	. (2nd): Yellow LED, "cloudy/light rain"
+	. (3rd): Red LED, "storm/hail/flood"
